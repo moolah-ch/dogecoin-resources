@@ -34,9 +34,11 @@ For any suggestions, please submit a pull request. Additions should be appended 
 ## Online wallets
 - [DogeVault](https://www.dogevault.com/)
 - [DogeAPI](http://dogeapi.com/)
+- [Moolah](https://moolah.ch/)
 
 ## REST APIs
 - [DogeAPI](http://dogeapi.com/)
+- [Moolah](https://moolah.ch/)
 
 ## Local portals
 - [Polish](http://dogecoins.pl/)
@@ -187,3 +189,4 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [Dogecoin Paper Wallet Generator](http://dogecoinpaperwallet.net)
 - [DogeFetch: DOGE Display for Raspberry Pi](https://github.com/scriptingsoul/DogeFetch)
 - [Alternative Donation Button] (http://www.dogets.com/)
+- [Moogen](https://moolah.ch/paper)
